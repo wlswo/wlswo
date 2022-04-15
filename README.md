@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<!--
-**JaeJinByun/JaeJinByun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
 ![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=gruvbox)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11)
+<!--
+**JaeJinByun/JaeJinByun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
