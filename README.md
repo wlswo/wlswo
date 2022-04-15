@@ -2,8 +2,14 @@
 
 
 
-![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=gruvbox)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11)
+
+
+
+![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=gruvbox)  
+
+
+
 <!--
 **JaeJinByun/JaeJinByun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
