@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinByun)](https://github.com/anuraghazra/github-readme-stats)
+![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=gruvbox)  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
