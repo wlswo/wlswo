@@ -6,7 +6,7 @@
 
 
 
-![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=gruvbox)  
+![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=default)  
 
 
 
