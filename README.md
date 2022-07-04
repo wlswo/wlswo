@@ -3,7 +3,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11/) &ensp;&ensp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinbyun)](https://github.com/JaeJinByun/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinbyun)](https://github.com/JaeJinByun/github-readme-stats)
 
 # 💪Skills
 ### Platforms & Languages
