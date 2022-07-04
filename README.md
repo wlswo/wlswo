@@ -3,7 +3,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11/)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinbyun)](https://github.com/JaeJinByun/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11/)
 
 # 💪Skills
 ### Platforms & Languages
@@ -23,7 +23,7 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinByun&layout=compact&theme=dracula)](https://github.com/JaeJinByun)
 
 # :mailbox_with_mail: Contacts
 [![Notion](https://img.shields.io/badge/Blog-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=[https://soo-vely-dev.tistory.com](https://charmed-act-e88.notion.site/c55386b6838c431994d8ed2dc286d82f)/)](https://charmed-act-e88.notion.site/c55386b6838c431994d8ed2dc286d82f/)
