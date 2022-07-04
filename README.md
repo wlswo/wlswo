@@ -2,7 +2,7 @@
 
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11) ![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=default)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/byunjin11)) ![JaeJinbyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeJinbyun&show_icons=true&theme=default)  
 
 
 
