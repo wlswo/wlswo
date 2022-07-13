@@ -31,7 +31,7 @@ jobs:
 
       # 변경사항 push
       - name: Push changes
-        uses: ad-m/github-push-action@master
+        uses: ad-m/github-push-action@main
         with:
           github_token: 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
           branch: main
