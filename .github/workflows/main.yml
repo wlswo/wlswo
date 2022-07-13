@@ -22,7 +22,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: byunjin11
+          github_user_name: JaeJinByun
           # output branch에 gif, svg를 각각 생성
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -34,7 +34,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: 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
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
