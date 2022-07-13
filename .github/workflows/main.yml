@@ -33,7 +33,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: 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
+          github_token: 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
           branch: master
           force: true
 
@@ -42,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: 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
+          GITHUB_TOKEN: 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
