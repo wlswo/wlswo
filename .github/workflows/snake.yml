@@ -7,7 +7,7 @@ name: Generate Snake
 on:
   schedule:
     # 6시간마다 한 번(수정 가능)
-    - cron: "0 */ 6 * * *"
+    - cron: "0 */6 * * *"
  
   # 자동으로 Action이 실행되도록 함
   workflow_dispatch:
