@@ -27,7 +27,7 @@
 <!-- 교육사항 끝 -->
 
 
-#🫧 Things i code with
+# 🫧 Things i code with
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
