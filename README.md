@@ -29,6 +29,14 @@
 
 # 🫧 Things i code with
 ### Platforms & Languages
+
+<!-- Top Languages --> 
+<div align='right'>
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinByun&layout=compact&theme=dracula">
+</div>
+
+<div> 
+
 ![C](https://img.shields.io/badge/-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
@@ -41,12 +49,14 @@
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white)
 
+</div>
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinByun&layout=compact&theme=dracula)](https://github.com/JaeJinByun)
+
 
 # :mailbox_with_mail: Contacts
 [![Notion](https://img.shields.io/badge/portfolio-000000.svg?&style=flat-square&logo=Notion&logoColor=white&link=[https://soo-vely-dev.tistory.com](https://charmed-act-e88.notion.site/c55386b6838c431994d8ed2dc286d82f)/)](https://charmed-act-e88.notion.site/c55386b6838c431994d8ed2dc286d82f/)
