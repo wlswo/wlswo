@@ -1,11 +1,18 @@
-<!-- 자기소개 시작 -->
-<div>
-<br>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4DF7D1&lines=Hello+World+%F0%9F%8E%83+I%60m+JaeJin)](https://git.io/typing-svg) 
-  
+<div align='center'>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JaeJin%20𝕭&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🐬the%20ability%20to%20look%20around&descAlignY=51&descAlign=62)
+
 </div>
- 
+
+<div align='center'>
+
+<h3><b> 👋 Hello,I`m a </b></h3>
+junior developer who likes the night more than the day.😎 I am studying to become a backend software engineer.⚙️<br>
+My goal is to become a web full-stack engineer. I love learning new skills.⚡️ I also think that learning attitude is important,<br>
+and 🌱 I try to collaborate with many people. Currently, the goal is to experience several projects.<br>
+It is mainly a web project and a project using java and spring framework. I am also studying blockchain core.
+</div>
+
 * * *
 <!-- 자기소개 끝 -->
 
@@ -20,10 +27,9 @@
 
 <!-- 교육사항 시작 -->
 <div>
-  <h3><b> :books: Education </b></h3>
-  <h5> ⦁ 더조은IT아카데미 SW 블록체인 양성과정 2022.03 - 2022.09 </h5>
-  <h5> ⦁ 안양대학교 정보통신공학과 2015.03 - 2022.03 </h5>
-  <h5> ⦁ 동작고등학교 이과계열 2012.03 - 2015.02</h5>
+  <h3><b> • :books: Education </b></h3>
+  <h5> • tjoeun IT Blockchain course 2022.03 ~ 2022.09 </h3>
+  <h5> • Anyang Univ (Information Communication Engineering, ICE)  2015.03 ~ 2022.03 </h5>
 </div>
 </br>  
 <!-- 교육사항 끝 -->
