@@ -28,8 +28,9 @@ It is mainly a web project and a project using java and spring framework. I am a
 <!-- 교육사항 시작 -->
 <div>
   <h3><b> • :books: Education </b></h3>
-  <h5> • tjoeun IT Blockchain course 2022.03 ~ 2022.09 </h3>
-  <h5> • Anyang Univ (Information Communication Engineering, ICE)  2015.03 ~ 2022.03 </h5>
+  <h5> • tjoeun IT Blockchain course 　　　　　　　　　 2022.03 ~ 2022.09 </h3>
+  <h5> • Anyang Univ  　　　　　　　　　　　　　　　　　&nbsp; 2015.03 ~ 2022.03 </h5>
+  <h6>&nbsp;&nbsp;(Information Communication Engineering, ICE)</h6>
 </div>
 </br>  
 <!-- 교육사항 끝 -->
