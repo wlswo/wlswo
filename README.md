@@ -11,8 +11,10 @@
 
 <!-- 백준 알고리즘 레벨 시작 -->
 <div align='right'>
+
    <!--<h3><b>🔑 Algorithm Level 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;</b></h3>-->
    <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11">
+
 </div>
 <!-- 백준 알고리즘 레벨 끝 -->
 
