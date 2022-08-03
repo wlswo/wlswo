@@ -48,15 +48,20 @@ It is mainly a web project and a project using java and spring framework. I am a
 
 ![C](https://img.shields.io/badge/-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-6DB33F.svg?&style=flat-square&logo=Node.js&logoColor=white)
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 ![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-blue.svg?&style=flat-square&logo=MySQL&logoColor=white)
 
 </div>
 
