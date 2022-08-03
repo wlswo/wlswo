@@ -45,6 +45,16 @@ It is mainly a web project and a project using java and spring framework. I am a
 </div>
 
 <div> 
+<!-- 큰 아이콘 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,go" /><br><br>
+    <img src="https://skillicons.dev/icons?i=spring,nodejs" /><br><br>
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,jquery" /><br><br>
+    <img src="https://skillicons.dev/icons?i=oracle,mysql" />
+  </a>
+</p>
+-->
 
 ![C](https://img.shields.io/badge/-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
@@ -62,7 +72,6 @@ It is mainly a web project and a project using java and spring framework. I am a
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySQL-blue.svg?&style=flat-square&logo=MySQL&logoColor=white)
-
 </div>
 
 ### Tools
