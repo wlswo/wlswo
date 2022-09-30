@@ -8,9 +8,10 @@
 
 <h3><b> 👋 Hello,I`m a </b></h3>
 junior developer who likes the night more than the day.😎 I am studying to become a backend software engineer.⚙️<br>
-My goal is to become a web full-stack engineer. I love learning new skills.⚡️ I also think that learning attitude is important,<br>
+My goal is to become blockchain engineer. I love learning new skills.⚡️ I also think that learning attitude is important,<br>
 and 🌱 I try to collaborate with many people. Currently, the goal is to experience several projects.<br>
-It is mainly a web project and a project using java and spring framework. I am also studying blockchain core.
+It is mainly a web project and a project using java and spring framework. <br>
+I am also studying blockchain. Because we believe that it is a necessary technology in the future.
 </div>
 
 * * *
