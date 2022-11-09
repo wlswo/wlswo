@@ -42,7 +42,7 @@ I am also studying blockchain. Because we believe that it is a necessary technol
 
 <!-- Top Languages --> 
 <div align='right'>
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeJinByun&layout=compact&theme=dracula">
+  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlswo&layout=compact&theme=dracula">
 </div>
 
 <div> 
@@ -90,7 +90,7 @@ I am also studying blockchain. Because we believe that it is a necessary technol
 
 <div align='center'>
 
-![snake svg](https://github.com/JaeJinByun/JaeJinByun/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/wlswo/wlswo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
