@@ -1,11 +1,5 @@
 <div align='center'>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JaeJin%20𝕭&fontSize=80&animation=fadeIn&fontAlignY=38&desc=🐬the%20ability%20to%20look%20around&descAlignY=51&descAlign=62)
-
-</div>
-
-<div align='center'>
-
 <h3><b> 👋 Hello,I`m a </b></h3>
 junior developer who likes the night more than the day.😎 I am studying to become a backend software engineer.⚙️<br>
 My goal is to become blockchain engineer. I love learning new skills.⚡️ I also think that learning attitude is important,<br>
@@ -17,69 +11,19 @@ I am also studying blockchain. Because we believe that it is a necessary technol
 * * *
 <!-- 자기소개 끝 -->
 
-<!-- 백준 알고리즘 레벨 시작 -->
-<div align='right'>
 
-   <!--<h3><b>🔑 Algorithm Level 	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;	&nbsp;</b></h3>-->
-   <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjin11">
-
-</div>
-<!-- 백준 알고리즘 레벨 끝 -->
 
 <!-- 교육사항 시작 -->
 <div>
   <h3><b> • :books: Education </b></h3>
-  <h5> • tjoeun IT Blockchain course 　　　　　　　　　 2022.03 ~ 2022.09 </h3>
-  <h5> • Anyang Univ  　　　　　　　　　　　　　　　　　&nbsp; 2015.03 ~ 2022.03 </h5>
+  <h5> • wemade academy 　　　　　　　　　　　　2022.12 ~ 2023.01 </h3>
+  <h5> • BNB Chain hackathon With Like Lion 　　　　2022.9 ~ 2022.11 </h3>
+  <h5> • tjoeun IT Blockchain course 　　　　　　　　2022.03 ~ 2022.09 </h3>
+  <h5> • Anyang Univ  　　　　　　　　　　　　　　　2015.03 ~ 2022.03 </h5>
   <h6>&nbsp;&nbsp;(Information Communication Engineering, ICE)</h6>
 </div>
 </br>  
 <!-- 교육사항 끝 -->
-
-
-# 🫧 Things i code with
-### Platforms & Languages
-
-<!-- Top Languages --> 
-<div align='right'>
-  <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlswo&layout=compact&theme=dracula">
-</div>
-
-<div> 
-<!-- 큰 아이콘 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,go" /><br><br>
-    <img src="https://skillicons.dev/icons?i=spring,nodejs" /><br><br>
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,jquery" /><br><br>
-    <img src="https://skillicons.dev/icons?i=oracle,mysql" />
-  </a>
-</p>
--->
-
-![C](https://img.shields.io/badge/-A8B9CC.svg?&style=flat-square&logo=C&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat-square&logo=Go&logoColor=white)
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=flat-square&logo=Spring&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-6DB33F.svg?&style=flat-square&logo=Node.js&logoColor=white)
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white)
-![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-2E77BC?style=flat-square&logo=Betfair&logoColor=white)
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=flat-square&logo=Oracle&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-blue.svg?&style=flat-square&logo=MySQL&logoColor=white)
-</div>
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDE-B88490.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 
 
