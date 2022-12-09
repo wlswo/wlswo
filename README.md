@@ -14,17 +14,22 @@ I am also studying blockchain. Because we believe that it is a necessary technol
 
 
 <!-- 교육사항 시작 -->
-<div>
-  <h3><b> • :books: Education </b></h3>
-  <h5> • wemade academy 　　　　　　　　　　　　2022.12 ~ 2023.01 </h3>
-  <h5> • BNB Chain hackathon With Like Lion 　　　　2022.9 ~ 2022.11 </h3>
-  <h5> • tjoeun IT Blockchain course 　　　　　　　　2022.03 ~ 2022.09 </h3>
-  <h5> • Anyang Univ  　　　　　　　　　　　　　　　2015.03 ~ 2022.03 </h5>
-  <h6>&nbsp;&nbsp;(Information Communication Engineering, ICE)</h6>
-</div>
-</br>  
-<!-- 교육사항 끝 -->
+<h3><b> • :books: Education </b></h3>
 
+```
+
+• Wemade  academy 　　　　　　　　　　　　        2022.12 ~ 2023.01
+
+• BNB Chain hackathon With Like Lion 　　　  2022.09 ~ 2022.11 
+
+• tjoeun IT Blockchain course 　　　　　　　  　2022.03 ~ 2022.09 
+
+• Anyang Univ  　　　　　　　　　　　　　　       　2015.03 ~ 2022.03 
+  (Information Communication Engineering, ICE)
+  
+```
+
+<!-- 교육사항 끝 -->
 
 
 # :mailbox_with_mail: Contacts
