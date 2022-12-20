@@ -21,11 +21,11 @@ I am also studying blockchain. Because we believe that it is a necessary technol
 
 ```
 
-• Wemade  academy 　　　　　　　　　　　　        2022.12 ~ 2023.01
+• Wemade  academy 　　　　　　　　　　　　         2022.12 ~ 2023.01
 
-• BNB Chain hackathon With Like Lion 　　　  2022.09 ~ 2022.11 
+• BNB Chain hackathon With Like Lion 　　　       2022.09 ~ 2022.11 
 
-• tjoeun IT Blockchain course 　　　　　　　  　2022.03 ~ 2022.09 
+• tjoeun IT Blockchain course 　　　　　　　  　   2022.03 ~ 2022.09 
 
 • Anyang Univ  　　　　　　　　　　　　　　       　2015.03 ~ 2022.03 
   (Information Communication Engineering, ICE)
