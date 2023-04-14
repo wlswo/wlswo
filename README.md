@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlswo%2Fhit-counter&count_bg=%23858883&title_bg=%23B4B0B0&icon=ethereum.svg&icon_color=%23040405&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlswo%2Fhit-counter&count_bg=%23858883&title_bg=%23B4B0B0&icon=counter-strike.svg&icon_color=%23040405&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11)
 
