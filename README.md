@@ -1,6 +1,9 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlswo%2Fhit-counter&count_bg=%23858883&title_bg=%23B4B0B0&icon=counter-strike.svg&icon_color=%23040405&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=byunjin11)](https://solved.ac/byunjin11)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlswo%2Fhit-counter&count_bg=%2346CDBC&title_bg=%233F68AE&icon=furrynetwork.svg&icon_color=%231ECD98&title=visited&edge_flat=false"/></a><img src= "http://mazassumnida.wtf/api/mini/generate_badge?boj=byunjin11" align="right"/></a> <a href="https://hits.seeyoufarm.com">
+
+
+<br/>
 
 <!-- 
 # :mailbox_with_mail: Contacts
