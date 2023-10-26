@@ -20,5 +20,5 @@
 ### Certificate
 - 정보처리기사
 - SQLD
-- AWS - Solution Architecture Associate
+- AWS - Solution Architect Associate
 - AWS - Developer Associate
