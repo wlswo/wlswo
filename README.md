@@ -18,7 +18,7 @@
 <img src="https://github.com/wlswo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="right" />
 
 ### Certificate
-- 정보처리기사
+- Engineer Information Processing
 - SQLD
 - AWS - Solution Architect Associate
 - AWS - Developer Associate
